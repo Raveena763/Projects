@@ -24,7 +24,7 @@ The project processes uploaded portfolio data using Python libraries like *Panda
 5. The app will process the data and display insights, including investment distribution and returns.
 
 ---
-###Link
+Link
 https://github.com/Raveena763/Portfolio_Management
 ### *2. Credit Risk Assessment Documentation*
 
@@ -51,7 +51,7 @@ The project uses machine learning models (e.g., logistic regression, decision tr
 5. The app will process the data, apply the machine learning model, and display the risk assessment results.
 
 ---
-###Link
+Link
 https://github.com/Raveena763/Credit_Risk_Assesment
 ### *3. Budget Analysis Documentation*
 
@@ -77,7 +77,7 @@ The project allows users to input transactions, which are then categorized and a
 5. The app will process the data and display visualizations of your spending trends and budget breakdown.
 
 ---
-###Link
+Link
 https://github.com/Raveena763/Budget_Analysis
 ### *4. Stock Price Prediction Documentation*
 
@@ -105,5 +105,5 @@ The project fetches historical stock data (Open, High, Low, Close, Volume) and p
 5. The app will fetch historical data, process it, and display visualizations of historical trends and predicted prices.
 
 ---
-###Link
+Link
 https://github.com/Raveena763/Stock_Price_Predictor
